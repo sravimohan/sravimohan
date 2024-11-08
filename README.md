@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ravi Mohan :octocat:  @sravimohan
 - 👀 I’m interested in Full stack development
-- 🌱 I’m currently learning golang
-- 💞️ I’m looking to collaborate on .net
+- 💞️ I’m looking to collaborate on .net and react
 - 📫 reach me at ravi.mohan@roonga.com.au
 
 <!---
