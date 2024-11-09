@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full stack development
 - 💞️ I’m looking to collaborate on .net and react
 - 📫 reach me at ravi.mohan@roonga.com.au
-- Also hang out at https://bsky.app/profile/ravimohan.bsky.social
+- :butterfly: Also hang out at https://bsky.app/profile/ravimohan.bsky.social
 
 <!---
 sravimohan/sravimohan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
